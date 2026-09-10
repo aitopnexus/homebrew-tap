@@ -2,7 +2,7 @@ class TwoPane < Formula
   desc "Workflow for Main and Expert agent sessions"
   homepage "https://github.com/aitopnexus/2pane-workflow"
   url "https://github.com/aitopnexus/2pane-workflow/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "4cf89a06fe749c65bf2cee95dc591258583bc37145cf41b4e7ae5d5d404b8a30"
+  sha256 "d18c85833d51ea246bc41d1b6986907e6b5728614c9ba74cf080315ce1b53b20"
 
   def install
     bin.install "2pane"
