@@ -1,2 +1,7 @@
-# homebrew-tap
-Homebrew formulae for aitopnexus tools
+# Homebrew tap for aitopnexus
+
+Install 2pane:
+
+```bash
+brew install aitopnexus/tap/2pane
+```
