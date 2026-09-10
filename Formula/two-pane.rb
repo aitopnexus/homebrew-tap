@@ -1,4 +1,4 @@
-class Twopane < Formula
+class TwoPane < Formula
   desc "Two-pane workflow for Main and Expert agent sessions"
   homepage "https://github.com/aitopnexus/2pane-workflow"
   url "https://github.com/aitopnexus/2pane-workflow/archive/refs/tags/v0.1.0.tar.gz"
